@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: #000;
+}
+
+/* Header */
+.navbar {
+  background-color: #222;
+  color: white;
+  padding: 15px 40px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 30px;
+}
+
+.
